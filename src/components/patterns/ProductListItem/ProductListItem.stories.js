@@ -39,6 +39,6 @@ export const onSale = () => (
       'imageUrl',
       'https://source.unsplash.com/tNALoIZhqVM/200x100/'
     )}
-    onSale
+    isOnSale
   ></ProductListItem>
 );
